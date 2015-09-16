@@ -4,6 +4,8 @@ Go HTTP middleware
 Example
 -------
 
+
+```
 package main
 
 import (
@@ -52,3 +54,4 @@ func main() {
 }
 
 
+```
